@@ -4,7 +4,7 @@
 
 Specify the Triangle.exe file in the terminal followed by the absolute path of the input file e.g.
 ```
-./Triangle.exe "c:/foo/bar.txt
+./Triangle.exe "c:/foo/bar.txt"
 ```
 
 ## Example
